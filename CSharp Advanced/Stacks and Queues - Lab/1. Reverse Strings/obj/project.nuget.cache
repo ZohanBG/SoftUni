@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZO+uC5w2Xf3+D4A2TFEmvqVJC0QsNZQJjaVPzpVNYKrC9yAPuMCujeqFGRUP9IDJEze1dc5mUUntIwgdHbNNA==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Stacks and Queues - Lab\\1. Reverse Strings\\1. Reverse Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

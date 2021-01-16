@@ -1,0 +1,12 @@
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.exe
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.deps.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.dll
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.pdb
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.dll
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.pdb
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.genruntimeconfig.cache

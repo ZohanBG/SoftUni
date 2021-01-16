@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.exe
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.deps.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.dll
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.pdb
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.dll
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.pdb
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.genruntimeconfig.cache

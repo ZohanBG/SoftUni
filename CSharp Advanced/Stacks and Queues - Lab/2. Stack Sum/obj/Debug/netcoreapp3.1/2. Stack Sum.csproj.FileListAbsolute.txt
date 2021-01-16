@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.exe
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.deps.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.dll
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.pdb
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.dll
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.pdb
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DLwdFV8gvQyF/VXaEH5doTkGSKZgkDo0cQfbO6YZuQuvQWuSaBhgN52b95xbYhOTX7Ycee5Q9BuO2OminpfqCA==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Stacks and Queues - Lab\\2. Stack Sum\\2. Stack Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JopVnN0+eRdF4CHgmgMHVugHIYs9vGu5slGi++5H6FE6JmiIdkjQTMjnElkz/rLkDzwHA4bwJsHyHZqT7Nyi8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

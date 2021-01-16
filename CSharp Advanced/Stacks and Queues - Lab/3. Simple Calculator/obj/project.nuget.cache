@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h0EmcUuQZxvNYhr9lNli6a7fCzRmTsKss7EHW76xEUG2Wqh2AwiaQSJLzJAlIMN2guUnpx3MGdelhhjdlL0B9Q==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Stacks and Queues - Lab\\3. Simple Calculator\\3. Simple Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
