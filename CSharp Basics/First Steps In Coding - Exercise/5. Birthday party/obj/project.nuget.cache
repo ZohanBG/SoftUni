@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUp6sPvsKqvIk2oS0IXEdNiRdEpbKRAGv8KxWJ3sY24FjaWmMF5QkfyF8JwZKa56gYZcUHRNc6VmagH9KzuqwA==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\First Steps In Coding - Exercise\\5. Birthday party\\5. Birthday party.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

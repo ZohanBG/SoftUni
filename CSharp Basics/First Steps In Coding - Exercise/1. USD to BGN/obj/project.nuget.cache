@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fk4clPmSojNQi8siWV6UjUJ3vZbhQxFahViUEuoJgaIG5Z00AdHU1hIEmUwTZ20h5BF/NBUQ3+Fg1qzMvcAFcA==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\First Steps In Coding - Exercise\\1. USD to BGN\\1. USD to BGN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XjiZnS0UNEMZK9d2/Ci4i/cTYvpNLg6d7LAsFj5ky52skJLAnatXw8NOUF77oct/d7C+HsnFGHS+aE7tlRosPw==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\First Steps In Coding - Lab\\3. Square Area\\3. Square Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

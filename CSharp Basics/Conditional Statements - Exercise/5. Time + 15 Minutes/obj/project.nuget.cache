@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l54oktLP05Wk66X3sj8DKLRVUBW/giQAT8+iPlw7jnnU2WCcu2qfr3KiS0iDxkBrV7giPcgnP41gnczLd21LKw==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\Conditional Statements - Exercise\\5. Time + 15 Minutes\\5. Time + 15 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

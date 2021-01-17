@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QlUoO8PwIe4Z/mGvJHZNlgUlqNovO2TVPkRHophVJOQ4IF6QXO2b9tSDGDt7hfMJDWCEx+ZurOIEIidrli867Q==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\First Steps In Coding - Exercise\\4. Vacation books list\\4. Vacation books list.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

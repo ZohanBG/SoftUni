@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\bin\Debug\netcoreapp3.1\9. Yard Greening.exe
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\bin\Debug\netcoreapp3.1\9. Yard Greening.deps.json
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\bin\Debug\netcoreapp3.1\9. Yard Greening.runtimeconfig.json
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\bin\Debug\netcoreapp3.1\9. Yard Greening.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\bin\Debug\netcoreapp3.1\9. Yard Greening.dll
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\bin\Debug\netcoreapp3.1\9. Yard Greening.pdb
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\obj\Debug\netcoreapp3.1\9. Yard Greening.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\obj\Debug\netcoreapp3.1\9. Yard Greening.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\obj\Debug\netcoreapp3.1\9. Yard Greening.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\obj\Debug\netcoreapp3.1\9. Yard Greening.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\obj\Debug\netcoreapp3.1\9. Yard Greening.dll
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\obj\Debug\netcoreapp3.1\9. Yard Greening.pdb
+D:\Games\SoftUni\CSharp Basics\First Steps In Coding - Lab\9. Yard Greening\obj\Debug\netcoreapp3.1\9. Yard Greening.genruntimeconfig.cache
