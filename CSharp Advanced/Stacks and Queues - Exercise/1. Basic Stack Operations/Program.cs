@@ -28,11 +28,11 @@ namespace _1._Basic_Stack_Operations
             {
                 numbers.Pop();
             }
-            if (numbers.Count>0&&numbers.Contains(x))
+            if (numbers.Count > 0 && numbers.Contains(x))
             {
                 Console.WriteLine("true");
             }
-            else if(numbers.Count > 0)
+            else if (numbers.Count > 0)
             {
                 Console.WriteLine(numbers.Min());
             }
@@ -40,6 +40,7 @@ namespace _1._Basic_Stack_Operations
             {
                 Console.WriteLine(0);
             }
+
         }
     }
 }

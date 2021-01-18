@@ -18,7 +18,7 @@ namespace _6._Songs_Queue
                 }
                 else if (command == "Show")
                 {
-                    Console.WriteLine(string.Join(", ",songs));
+                    Console.WriteLine(string.Join(", ", songs));
                 }
                 else
                 {

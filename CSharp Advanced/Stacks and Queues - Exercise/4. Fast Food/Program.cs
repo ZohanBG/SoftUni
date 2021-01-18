@@ -12,9 +12,9 @@ namespace _4._Fast_Food
             int[] input = Console.ReadLine().Split().Select(int.Parse).ToArray();
             Queue<int> orders = new Queue<int>(input);
             Console.WriteLine(orders.Max());
-            while (orders.Count>0)
+            while (orders.Count > 0)
             {
-                if (orders.Peek()<=food)
+                if (orders.Peek() <= food)
                 {
                     food -= orders.Dequeue();
                 }
@@ -29,7 +29,7 @@ namespace _4._Fast_Food
             }
             else
             {
-                Console.WriteLine("Orders left: " + string.Join(" ",orders));
+                Console.WriteLine("Orders left: " + string.Join(" ", orders));
             }
         }
     }

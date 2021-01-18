@@ -20,10 +20,10 @@ namespace _8._Balanced_Parenthesis
                         stack.Push(item);
                         break;
                     case ')':
-                        if (stack.Count == 0|| stack.Pop() != '(')
+                        if (stack.Count == 0 || stack.Pop() != '(')
                         {
                             isGood = false;
-                        }                      
+                        }
                         break;
                     case '}':
                         if (stack.Count == 0 || stack.Pop() != '{')
@@ -45,7 +45,7 @@ namespace _8._Balanced_Parenthesis
                     break;
                 }
             }
-            Console.WriteLine(isGood?"YES":"NO");
+            Console.WriteLine(isGood ? "YES" : "NO");
         }
     }
 }

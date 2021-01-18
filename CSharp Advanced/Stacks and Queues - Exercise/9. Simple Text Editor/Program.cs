@@ -26,7 +26,7 @@ namespace _9._Simple_Text_Editor
                         break;
                     case "3":
                         int index = int.Parse(command[1]);
-                        Console.WriteLine(text[index-1]);
+                        Console.WriteLine(text[index - 1]);
                         break;
                     case "4":
                         text = changes.Pop();
