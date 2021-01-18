@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J4qRqtjt1hUeXxgEjcpXJYugPrlNFZGs+TmuFcDJJnAWd9PHla3B+bN1e9I0etTpIE53WcNvpSXO51WHNY0MMw==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Stacks and Queues - Exercise\\1. Basic Stack Operations\\1. Basic Stack Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

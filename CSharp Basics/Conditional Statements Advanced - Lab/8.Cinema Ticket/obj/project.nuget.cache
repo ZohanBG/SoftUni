@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/wkmPmilrSxwX6Z4FnSo8Wk/LKsTihG+SiML0K5oeGPIGm50G0Hr96NqzDsugjBE307akjtVpOtpUYdHFAI3A==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\Conditional Statements Advanced - Lab\\8.Cinema Ticket\\8.Cinema Ticket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

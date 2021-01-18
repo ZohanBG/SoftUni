@@ -1,0 +1,12 @@
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.exe
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.deps.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.dll
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\4. Fast Food\bin\Debug\netcoreapp3.1\4. Fast Food.pdb
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.dll
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.pdb
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\4. Fast Food\obj\Debug\netcoreapp3.1\4. Fast Food.genruntimeconfig.cache

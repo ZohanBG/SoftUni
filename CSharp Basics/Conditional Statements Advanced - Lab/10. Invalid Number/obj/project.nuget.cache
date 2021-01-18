@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4xVFEZuB0AgIFLn/x1Zo5c95v9Gf7bdK9TK6c8dkH7LvdsdPEh8N4zLQHOxKsApyiWjWFYeFOb68AdFcoDirw==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\Conditional Statements Advanced - Lab\\10. Invalid Number\\10. Invalid Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

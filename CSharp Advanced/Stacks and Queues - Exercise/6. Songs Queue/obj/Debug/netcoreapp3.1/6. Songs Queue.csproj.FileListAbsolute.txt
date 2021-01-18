@@ -1,0 +1,12 @@
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.exe
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.deps.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.dll
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.pdb
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.dll
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.pdb
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.genruntimeconfig.cache

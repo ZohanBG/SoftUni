@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxd1XNIgJTPAKolzBZzu1elXCSTIGOlaTEdUdRVB4twJ6jt3Q4I/2hIB+jkkeT35kq2+Lxiz+X0XyNk4/Dkzcw==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\For Loop - Exercise\\5. Divide Without Remainder\\5. Divide Without Remainder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\bin\Debug\netcoreapp3.1\1. Basic Stack Operations.exe
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\bin\Debug\netcoreapp3.1\1. Basic Stack Operations.deps.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\bin\Debug\netcoreapp3.1\1. Basic Stack Operations.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\bin\Debug\netcoreapp3.1\1. Basic Stack Operations.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\bin\Debug\netcoreapp3.1\1. Basic Stack Operations.dll
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\bin\Debug\netcoreapp3.1\1. Basic Stack Operations.pdb
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.dll
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.pdb
+D:\Games\SoftUni\CSharp Advanced\Stacks and Queues - Exercise\1. Basic Stack Operations\obj\Debug\netcoreapp3.1\1. Basic Stack Operations.genruntimeconfig.cache

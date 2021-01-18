@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4wmxEHxQZU7ypXEvMBcNIUwIEJNCNRQHbU9/OEGvj/Tk9lHekxD+CmtUkla/uU3okYE3/1TqyNLbyOW0wAFqQ==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\For Loop - Lab\\5. Character Sequence\\5. Character Sequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

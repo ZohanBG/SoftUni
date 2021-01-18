@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nd0i0zjI4IdVzBM7Pzhvik4jnkaugvQyJm7RbH0NMv1N2f3o3wCCpB6Sj3G7/lTQH/MX2BE6mZGCxd6oF6/KWA==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Stacks and Queues - Exercise\\6. Songs Queue\\6. Songs Queue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BDP8oL5maK6Y1VgfAD8e8Kt8pMiPt1pR/pIYEARy4+usbnAj4wCJQ9jOYjV/T37eO7cmR44feRVfC8Efqbs1RQ==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\Conditional Statements Advanced - Exercise\\6. Operations Between Numbers\\6. Operations Between Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

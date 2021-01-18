@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l8tAqG9FZQNl4FV2CRg8pwloIdK0V2sYalhzJkVelMvcPbE5nzsguWyNzve09qBHgohNlZaeqQuyU+I/S3yZpg==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\For Loop - Lab\\6. Vowels Sum\\6. Vowels Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

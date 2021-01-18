@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uo51r72+FAJU3stBQKND0BVU270GFVJWDqwWb2768Z8lWHR3TkaUuThBIfdjEQXmYgIBG20OvKHm9Wc4L4885g==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\For Loop - Lab\\8. Number sequence\\8. Number sequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
