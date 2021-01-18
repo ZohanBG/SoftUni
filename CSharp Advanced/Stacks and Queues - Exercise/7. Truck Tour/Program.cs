@@ -25,10 +25,11 @@ namespace _7._Truck_Tour
                     pumpsData.Enqueue(pumpDatas);
                     currentPatrolAmmount += pumpData[0];
                     currentPatrolAmmount -= pumpData[1];
-                    if (currentPatrolAmmount < 0)
+                    if (currentPatrolAmmount >= 0)
                     {
-                        isSuccesful = false;
+                        continue;
                     }
+                    isSuccesful = false;
                 }
                 if (isSuccesful)
                 {
