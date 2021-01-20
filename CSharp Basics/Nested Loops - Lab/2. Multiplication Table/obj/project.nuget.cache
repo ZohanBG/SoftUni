@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CsAj8EvrpNzK1yPfLqio3LTVinMjAU6jhu2KeLWgne3kHWqct7zkLlXzlGp9yBAXWxNll7itE7mlVpiXHHw6aw==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\Nested Loops - Lab\\2. Multiplication Table\\2. Multiplication Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

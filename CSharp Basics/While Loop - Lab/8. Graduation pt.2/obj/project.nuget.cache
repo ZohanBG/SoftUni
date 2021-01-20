@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1JWqkpfHT3/R4gFdI1lUMvJ2ZsNHBNpFU36iYV35zYHZ7edbuGRJaL/eLne0pMLQaBDng2wz1hAfZbSDl/auQ==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\While Loop - Lab\\8. Graduation pt.2\\8. Graduation pt.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

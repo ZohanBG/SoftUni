@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.exe
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.deps.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.genruntimeconfig.cache

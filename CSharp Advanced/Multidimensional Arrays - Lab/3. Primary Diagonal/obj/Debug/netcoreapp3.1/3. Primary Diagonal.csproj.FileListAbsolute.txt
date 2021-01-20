@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.1\3. Primary Diagonal.exe
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.1\3. Primary Diagonal.deps.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.1\3. Primary Diagonal.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.1\3. Primary Diagonal.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.1\3. Primary Diagonal.dll
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.1\3. Primary Diagonal.pdb
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.1\3. Primary Diagonal.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.1\3. Primary Diagonal.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.1\3. Primary Diagonal.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.1\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.1\3. Primary Diagonal.dll
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.1\3. Primary Diagonal.pdb
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.1\3. Primary Diagonal.genruntimeconfig.cache

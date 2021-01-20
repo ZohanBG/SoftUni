@@ -1,0 +1,12 @@
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.exe
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.deps.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.genruntimeconfig.cache

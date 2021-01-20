@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0Rb0Fnmzv10Y3Qf0ziUUty1+pOIJX2C6oUepbOxYXYCICK0kjGYl/8Vxpacq7n9uiFZT+Qu9qQAjR2AGtm4uw==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Basics\\While Loop - Lab\\While Loop - Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

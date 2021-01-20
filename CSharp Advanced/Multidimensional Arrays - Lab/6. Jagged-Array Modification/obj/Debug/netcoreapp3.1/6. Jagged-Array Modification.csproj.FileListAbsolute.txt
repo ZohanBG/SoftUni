@@ -1,0 +1,12 @@
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.exe
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.deps.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.dll
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.pdb
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.dll
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.pdb
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.genruntimeconfig.cache

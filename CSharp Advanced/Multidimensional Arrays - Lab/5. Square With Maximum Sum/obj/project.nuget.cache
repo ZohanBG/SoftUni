@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TE6AVN+d294Hw6zAjsgm5KZiICNhcG5haQTqBR3arXCfrnTPDnpWMMxkDd8K6LeF0RjACeN1UMcPX+r2LcKNtQ==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Multidimensional Arrays - Lab\\5. Square With Maximum Sum\\5. Square With Maximum Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
