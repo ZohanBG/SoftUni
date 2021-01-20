@@ -13,7 +13,20 @@ namespace _7._Pascal_Triangle
                 pascal[row] = new long[row + 1];
                 for (int col = 0; col < row+1; col++)
                 {
-                    pascal[row][col] = row + col;
+                    long sum = 0;
+                    if (row - 1 >= 0 && pascal[row - 1].Length > col)
+                    {
+                        sum += pascal[row - 1][col];
+                    }
+                    if (row - 1 >= 0 && col - 1 >= 0)
+                    {
+                        sum += pascal[row - 1][col-1];
+                    }
+                    if (sum == 0)
+                    {
+                        sum = 1;
+                    }
+                    pascal[row][col] = sum;
                 }
             }
 
