@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.exe
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.deps.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.dll
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.pdb
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.dll
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.pdb
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.genruntimeconfig.cache

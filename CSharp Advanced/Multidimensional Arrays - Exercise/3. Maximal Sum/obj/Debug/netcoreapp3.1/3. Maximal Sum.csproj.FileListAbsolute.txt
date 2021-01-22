@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.exe
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.deps.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.dll
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.pdb
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.dll
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.pdb
+D:\Games\SoftUni\CSharp Advanced\Multidimensional Arrays - Exercise\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.genruntimeconfig.cache
