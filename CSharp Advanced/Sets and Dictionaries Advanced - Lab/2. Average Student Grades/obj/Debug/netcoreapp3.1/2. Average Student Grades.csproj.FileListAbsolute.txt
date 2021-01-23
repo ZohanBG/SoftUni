@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.exe
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.deps.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.dll
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.pdb
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.dll
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.pdb
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.genruntimeconfig.cache

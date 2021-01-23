@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\bin\Debug\netcoreapp3.1\7. SoftUni Party.exe
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\bin\Debug\netcoreapp3.1\7. SoftUni Party.deps.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\bin\Debug\netcoreapp3.1\7. SoftUni Party.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\bin\Debug\netcoreapp3.1\7. SoftUni Party.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\bin\Debug\netcoreapp3.1\7. SoftUni Party.dll
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\bin\Debug\netcoreapp3.1\7. SoftUni Party.pdb
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\obj\Debug\netcoreapp3.1\7. SoftUni Party.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\obj\Debug\netcoreapp3.1\7. SoftUni Party.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\obj\Debug\netcoreapp3.1\7. SoftUni Party.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\obj\Debug\netcoreapp3.1\7. SoftUni Party.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\obj\Debug\netcoreapp3.1\7. SoftUni Party.dll
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\obj\Debug\netcoreapp3.1\7. SoftUni Party.pdb
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\7. SoftUni Party\obj\Debug\netcoreapp3.1\7. SoftUni Party.genruntimeconfig.cache

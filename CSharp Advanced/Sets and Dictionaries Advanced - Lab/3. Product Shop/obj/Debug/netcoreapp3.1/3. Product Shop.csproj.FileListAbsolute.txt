@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.exe
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.deps.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.dll
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.pdb
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.dll
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.pdb
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.genruntimeconfig.cache

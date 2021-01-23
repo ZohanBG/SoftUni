@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CrBxp3+nmSaBHm6/gL3IB160xltLVtDPtXGuPC2/jhGYP3Qtk9G3/qEcw1/zbjVWpaDRrOZm4ucRO2Q79K14Ug==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Sets and Dictionaries Advanced - Lab\\Sets and Dictionaries Advanced - Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

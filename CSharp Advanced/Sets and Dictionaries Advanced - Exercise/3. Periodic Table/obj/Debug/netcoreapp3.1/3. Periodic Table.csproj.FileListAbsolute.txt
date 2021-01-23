@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.exe
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.deps.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.dll
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.pdb
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.dll
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.pdb
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.genruntimeconfig.cache

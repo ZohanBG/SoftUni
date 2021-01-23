@@ -1,0 +1,12 @@
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\6. Wardrobe\bin\Debug\netcoreapp3.1\6. Wardrobe.exe
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\6. Wardrobe\bin\Debug\netcoreapp3.1\6. Wardrobe.deps.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\6. Wardrobe\bin\Debug\netcoreapp3.1\6. Wardrobe.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\6. Wardrobe\bin\Debug\netcoreapp3.1\6. Wardrobe.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\6. Wardrobe\bin\Debug\netcoreapp3.1\6. Wardrobe.dll
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\6. Wardrobe\bin\Debug\netcoreapp3.1\6. Wardrobe.pdb
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.dll
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.pdb
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Exercise\6. Wardrobe\obj\Debug\netcoreapp3.1\6. Wardrobe.genruntimeconfig.cache

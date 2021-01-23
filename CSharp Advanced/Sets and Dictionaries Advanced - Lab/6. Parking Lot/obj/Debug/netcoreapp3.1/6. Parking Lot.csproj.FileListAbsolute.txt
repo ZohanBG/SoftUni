@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\bin\Debug\netcoreapp3.1\6. Parking Lot.exe
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\bin\Debug\netcoreapp3.1\6. Parking Lot.deps.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\bin\Debug\netcoreapp3.1\6. Parking Lot.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\bin\Debug\netcoreapp3.1\6. Parking Lot.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\bin\Debug\netcoreapp3.1\6. Parking Lot.dll
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\bin\Debug\netcoreapp3.1\6. Parking Lot.pdb
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.dll
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.pdb
+D:\Games\SoftUni\CSharp Advanced\Sets and Dictionaries Advanced - Lab\6. Parking Lot\obj\Debug\netcoreapp3.1\6. Parking Lot.genruntimeconfig.cache
