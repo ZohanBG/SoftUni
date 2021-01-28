@@ -1,0 +1,12 @@
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.exe
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.deps.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.genruntimeconfig.cache

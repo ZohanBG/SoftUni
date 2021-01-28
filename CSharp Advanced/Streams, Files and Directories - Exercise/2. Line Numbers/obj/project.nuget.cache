@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFtHuOuQmJfbfAC54ySRF9TSdTqw4QLd7tOIJ+ClyEh/4MGhdSR5ApgVAyXhcO7kEAY3JxD4uFbBgR76/NWhjw==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Streams, Files and Directories - Exercise\\2. Line Numbers\\2. Line Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.exe
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.deps.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.genruntimeconfig.cache

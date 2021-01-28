@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.exe
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.deps.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.exe
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.deps.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\bin\Debug\netcoreapp3.1\2. Line Numbers.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\2. Line Numbers\obj\Debug\netcoreapp3.1\2. Line Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.exe
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.deps.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.genruntimeconfig.cache

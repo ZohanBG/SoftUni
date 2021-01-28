@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.exe
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.deps.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.exe
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.deps.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Lab\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XFzF+IouEsSeg3WGo/ncNby5914UOZ7otWDVWEm8rrQSr71p99jW4RVTbiM1mBHjyjwCENgXvq2t6wpnV+pNvQ==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Streams, Files and Directories - Exercise\\1. Even Lines\\1. Even Lines.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

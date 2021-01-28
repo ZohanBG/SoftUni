@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.exe
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.deps.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\4. Copy Binary File\bin\Debug\netcoreapp3.1\4. Copy Binary File.exe
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\4. Copy Binary File\bin\Debug\netcoreapp3.1\4. Copy Binary File.deps.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\4. Copy Binary File\bin\Debug\netcoreapp3.1\4. Copy Binary File.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\4. Copy Binary File\bin\Debug\netcoreapp3.1\4. Copy Binary File.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\4. Copy Binary File\bin\Debug\netcoreapp3.1\4. Copy Binary File.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\4. Copy Binary File\bin\Debug\netcoreapp3.1\4. Copy Binary File.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.dll
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.pdb
+D:\Games\SoftUni\CSharp Advanced\Streams, Files and Directories - Exercise\4. Copy Binary File\obj\Debug\netcoreapp3.1\4. Copy Binary File.genruntimeconfig.cache
