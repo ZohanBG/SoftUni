@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\bin\Debug\netcoreapp3.1\3. Custom Min Function.exe
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\bin\Debug\netcoreapp3.1\3. Custom Min Function.deps.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\bin\Debug\netcoreapp3.1\3. Custom Min Function.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\bin\Debug\netcoreapp3.1\3. Custom Min Function.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\bin\Debug\netcoreapp3.1\3. Custom Min Function.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\bin\Debug\netcoreapp3.1\3. Custom Min Function.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\3. Custom Min Function\obj\Debug\netcoreapp3.1\3. Custom Min Function.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.exe
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.deps.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\11. The Party Reservation Filter Module.genruntimeconfig.cache

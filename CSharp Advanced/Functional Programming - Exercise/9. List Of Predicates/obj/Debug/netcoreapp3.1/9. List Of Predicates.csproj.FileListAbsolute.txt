@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\bin\Debug\netcoreapp3.1\9. List Of Predicates.exe
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\bin\Debug\netcoreapp3.1\9. List Of Predicates.deps.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\bin\Debug\netcoreapp3.1\9. List Of Predicates.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\bin\Debug\netcoreapp3.1\9. List Of Predicates.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\bin\Debug\netcoreapp3.1\9. List Of Predicates.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\bin\Debug\netcoreapp3.1\9. List Of Predicates.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\obj\Debug\netcoreapp3.1\9. List Of Predicates.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\obj\Debug\netcoreapp3.1\9. List Of Predicates.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\obj\Debug\netcoreapp3.1\9. List Of Predicates.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\obj\Debug\netcoreapp3.1\9. List Of Predicates.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\obj\Debug\netcoreapp3.1\9. List Of Predicates.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\obj\Debug\netcoreapp3.1\9. List Of Predicates.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\9. List Of Predicates\obj\Debug\netcoreapp3.1\9. List Of Predicates.genruntimeconfig.cache

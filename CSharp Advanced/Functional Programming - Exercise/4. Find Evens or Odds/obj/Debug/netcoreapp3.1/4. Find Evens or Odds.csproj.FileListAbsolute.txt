@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\bin\Debug\netcoreapp3.1\4. Find Evens or Odds.exe
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\bin\Debug\netcoreapp3.1\4. Find Evens or Odds.deps.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\bin\Debug\netcoreapp3.1\4. Find Evens or Odds.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\bin\Debug\netcoreapp3.1\4. Find Evens or Odds.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\bin\Debug\netcoreapp3.1\4. Find Evens or Odds.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\bin\Debug\netcoreapp3.1\4. Find Evens or Odds.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\4. Find Evens or Odds\obj\Debug\netcoreapp3.1\4. Find Evens or Odds.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\bin\Debug\netcoreapp3.1\1. Action Print.exe
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\bin\Debug\netcoreapp3.1\1. Action Print.deps.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\bin\Debug\netcoreapp3.1\1. Action Print.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\bin\Debug\netcoreapp3.1\1. Action Print.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\bin\Debug\netcoreapp3.1\1. Action Print.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\bin\Debug\netcoreapp3.1\1. Action Print.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\obj\Debug\netcoreapp3.1\1. Action Print.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\obj\Debug\netcoreapp3.1\1. Action Print.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\obj\Debug\netcoreapp3.1\1. Action Print.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\obj\Debug\netcoreapp3.1\1. Action Print.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\obj\Debug\netcoreapp3.1\1. Action Print.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\obj\Debug\netcoreapp3.1\1. Action Print.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\1. Action Print\obj\Debug\netcoreapp3.1\1. Action Print.genruntimeconfig.cache

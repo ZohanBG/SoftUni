@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZwkrSS/VhVsgFzUp3gQgJvmI7FfR6Z7LMFdZfmyBN1FAVToAeK9dIuqBCG/PcYQTj2XdTx5/3wXHGoWCmI2MQ==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Functional Programming - Exercise\\2. Knights of Honor\\2. Knights of Honor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

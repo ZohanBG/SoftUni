@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\bin\Debug\netcoreapp3.1\2. Sum Numbers.exe
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\bin\Debug\netcoreapp3.1\2. Sum Numbers.deps.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\bin\Debug\netcoreapp3.1\2. Sum Numbers.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\bin\Debug\netcoreapp3.1\2. Sum Numbers.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\bin\Debug\netcoreapp3.1\2. Sum Numbers.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\bin\Debug\netcoreapp3.1\2. Sum Numbers.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\2. Sum Numbers\obj\Debug\netcoreapp3.1\2. Sum Numbers.genruntimeconfig.cache

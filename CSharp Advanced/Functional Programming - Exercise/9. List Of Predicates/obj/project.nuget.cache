@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUmgUM+xsGAJhXQATFAD6vxai2gkJ+Y0uTb7xzxSLa0V6a1/z6hJArYWxMN8YwYvFOizTZAAZG6SOWnlG0bEtQ==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Functional Programming - Exercise\\9. List Of Predicates\\9. List Of Predicates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

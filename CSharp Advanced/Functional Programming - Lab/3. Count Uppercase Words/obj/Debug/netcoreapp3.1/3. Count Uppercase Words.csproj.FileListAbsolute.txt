@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\bin\Debug\netcoreapp3.1\3. Count Uppercase Words.exe
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\bin\Debug\netcoreapp3.1\3. Count Uppercase Words.deps.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\bin\Debug\netcoreapp3.1\3. Count Uppercase Words.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\bin\Debug\netcoreapp3.1\3. Count Uppercase Words.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\bin\Debug\netcoreapp3.1\3. Count Uppercase Words.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\bin\Debug\netcoreapp3.1\3. Count Uppercase Words.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.genruntimeconfig.cache

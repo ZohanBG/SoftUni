@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.exe
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.deps.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.genruntimeconfig.cache

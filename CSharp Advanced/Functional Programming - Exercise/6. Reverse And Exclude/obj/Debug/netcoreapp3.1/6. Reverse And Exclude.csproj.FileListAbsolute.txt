@@ -1,0 +1,12 @@
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\6. Reverse And Exclude\bin\Debug\netcoreapp3.1\6. Reverse And Exclude.exe
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\6. Reverse And Exclude\bin\Debug\netcoreapp3.1\6. Reverse And Exclude.deps.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\6. Reverse And Exclude\bin\Debug\netcoreapp3.1\6. Reverse And Exclude.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\6. Reverse And Exclude\bin\Debug\netcoreapp3.1\6. Reverse And Exclude.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\6. Reverse And Exclude\bin\Debug\netcoreapp3.1\6. Reverse And Exclude.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\6. Reverse And Exclude\bin\Debug\netcoreapp3.1\6. Reverse And Exclude.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\6. Reverse And Exclude\obj\Debug\netcoreapp3.1\6. Reverse And Exclude.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\6. Reverse And Exclude\obj\Debug\netcoreapp3.1\6. Reverse And Exclude.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\6. Reverse And Exclude\obj\Debug\netcoreapp3.1\6. Reverse And Exclude.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\6. Reverse And Exclude\obj\Debug\netcoreapp3.1\6. Reverse And Exclude.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\6. Reverse And Exclude\obj\Debug\netcoreapp3.1\6. Reverse And Exclude.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\6. Reverse And Exclude\obj\Debug\netcoreapp3.1\6. Reverse And Exclude.genruntimeconfig.cache

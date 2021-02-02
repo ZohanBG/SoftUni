@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.exe
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.deps.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Lab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.genruntimeconfig.cache

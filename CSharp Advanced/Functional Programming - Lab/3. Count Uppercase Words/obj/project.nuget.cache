@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lPvJXoDWbg4X4O7Um4C7FEcQc1hK6UiX991ReO/RUFnnYAUfCb7Xr4U3L7sy/6nWKnHeGM74iW/LRzkBZrQLhw==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Functional Programming - Lab\\3. Count Uppercase Words\\3. Count Uppercase Words.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

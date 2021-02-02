@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MrvcVH0/KdhDVzoNX46+EcJF8INy2SHFtlgWuK2E1XSItNIchrMOOJnTRBOVo8vORURrs/VYfH2ApDnOhE/YnA==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Functional Programming - Exercise\\Functional Programming - Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

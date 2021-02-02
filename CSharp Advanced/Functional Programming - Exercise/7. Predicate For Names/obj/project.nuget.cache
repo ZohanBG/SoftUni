@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "10BxFVm23T5RLhZRBa/rUBl2jAlGSBrKckJg33kzz0iND+0SUcerAofAxM2cgxqWYezjOQCzERihr71x4bs/8w==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Functional Programming - Exercise\\7. Predicate For Names\\7. Predicate For Names.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

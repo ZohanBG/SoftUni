@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbxFXrQXik4FgUQvaL2CEgyjp4bTT1OSWMru436sYkU2aDGms45NHq+EPDRo0ylxwlnIiDWZsfsdnQ+0fdX7uw==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Functional Programming - Lab\\5. Filter By Age\\5. Filter By Age.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

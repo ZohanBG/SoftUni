@@ -1,0 +1,12 @@
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\8. Custom Comparator\bin\Debug\netcoreapp3.1\8. Custom Comparator.exe
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\8. Custom Comparator\bin\Debug\netcoreapp3.1\8. Custom Comparator.deps.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\8. Custom Comparator\bin\Debug\netcoreapp3.1\8. Custom Comparator.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\8. Custom Comparator\bin\Debug\netcoreapp3.1\8. Custom Comparator.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\8. Custom Comparator\bin\Debug\netcoreapp3.1\8. Custom Comparator.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\8. Custom Comparator\bin\Debug\netcoreapp3.1\8. Custom Comparator.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\8. Custom Comparator\obj\Debug\netcoreapp3.1\8. Custom Comparator.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\8. Custom Comparator\obj\Debug\netcoreapp3.1\8. Custom Comparator.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\8. Custom Comparator\obj\Debug\netcoreapp3.1\8. Custom Comparator.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\8. Custom Comparator\obj\Debug\netcoreapp3.1\8. Custom Comparator.dll
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\8. Custom Comparator\obj\Debug\netcoreapp3.1\8. Custom Comparator.pdb
+D:\Games\SoftUni\CSharp Advanced\Functional Programming - Exercise\8. Custom Comparator\obj\Debug\netcoreapp3.1\8. Custom Comparator.genruntimeconfig.cache
