@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ubXTRa0xt2y3zPnYxttR2ilbkU/JE3Id/CsQfOGGgP5Iju3xpRnjgE6J4g2B8skPW5A8E45FI00iNcCy0SpngA==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Generics - Lab\\Generics - Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
