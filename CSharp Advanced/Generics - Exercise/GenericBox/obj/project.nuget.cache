@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k8SL+Dt/6IJSDvBsQQMxVCjQ0mKVqufp9je9vHoPoyahv+u1THRXxTjdedPus4gGTTTnWASw3FqIs5PBBb0IVg==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Generics - Exercise\\GenericBox\\GenericBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
