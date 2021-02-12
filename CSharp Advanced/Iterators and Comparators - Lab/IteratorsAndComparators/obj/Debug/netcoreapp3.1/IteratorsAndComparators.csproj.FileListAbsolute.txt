@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.exe
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.deps.json
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.genruntimeconfig.cache
