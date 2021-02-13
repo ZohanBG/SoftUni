@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache

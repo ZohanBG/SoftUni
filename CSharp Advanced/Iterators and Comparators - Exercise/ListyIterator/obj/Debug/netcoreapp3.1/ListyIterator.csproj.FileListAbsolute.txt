@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.exe
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.deps.json
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.dll
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.pdb
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.dll
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.pdb
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.genruntimeconfig.cache

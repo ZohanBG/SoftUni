@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.exe
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.deps.json
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.dll
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.pdb
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.dll
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.pdb
+D:\Games\SoftUni\CSharp Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.genruntimeconfig.cache
