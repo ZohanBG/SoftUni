@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache

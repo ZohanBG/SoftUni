@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\bin\Debug\netcoreapp3.1\Selling.exe
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\bin\Debug\netcoreapp3.1\Selling.deps.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\bin\Debug\netcoreapp3.1\Selling.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\bin\Debug\netcoreapp3.1\Selling.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\obj\Debug\netcoreapp3.1\Selling.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\obj\Debug\netcoreapp3.1\Selling.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\obj\Debug\netcoreapp3.1\Selling.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\obj\Debug\netcoreapp3.1\Selling.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Selling\obj\Debug\netcoreapp3.1\Selling.genruntimeconfig.cache

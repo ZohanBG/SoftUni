@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.exe
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.deps.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 16 December 2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.genruntimeconfig.cache
