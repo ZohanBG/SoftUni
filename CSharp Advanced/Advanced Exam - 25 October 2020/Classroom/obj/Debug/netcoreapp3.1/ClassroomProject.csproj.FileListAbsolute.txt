@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 25 October 2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache
