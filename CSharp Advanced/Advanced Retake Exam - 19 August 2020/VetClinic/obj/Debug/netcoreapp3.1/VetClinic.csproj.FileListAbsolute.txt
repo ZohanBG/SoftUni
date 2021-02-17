@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache

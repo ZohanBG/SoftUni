@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.exe
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.deps.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5z86Cxs98CetNYiArvkMOPsfHhOEqLVq7NE3Zwph8vUCe8/sHO60bGAqMR0D8xOHKMI85F29bMWEJ8KVcmIiZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Advanced\\Advanced Retake Exam - 19 August 2020\\VetClinic\\VetClinic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

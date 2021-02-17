@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.exe
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.deps.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\bin\Debug\netcoreapp3.1\Bee.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Retake Exam - 19 August 2020\Bee\obj\Debug\netcoreapp3.1\Bee.genruntimeconfig.cache
