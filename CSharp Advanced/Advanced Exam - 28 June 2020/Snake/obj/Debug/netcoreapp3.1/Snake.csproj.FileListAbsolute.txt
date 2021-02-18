@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\bin\Debug\netcoreapp3.1\Bombs.exe
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\bin\Debug\netcoreapp3.1\Bombs.deps.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\bin\Debug\netcoreapp3.1\Bombs.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\bin\Debug\netcoreapp3.1\Bombs.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.genruntimeconfig.cache

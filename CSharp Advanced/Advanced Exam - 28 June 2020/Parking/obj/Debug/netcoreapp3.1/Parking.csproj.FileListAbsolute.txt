@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\bin\Debug\netcoreapp3.1\Parking.exe
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\bin\Debug\netcoreapp3.1\Parking.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache
