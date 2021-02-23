@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.exe
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.deps.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.dll
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.pdb
+D:\Games\SoftUni\CSharp Advanced\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.genruntimeconfig.cache
