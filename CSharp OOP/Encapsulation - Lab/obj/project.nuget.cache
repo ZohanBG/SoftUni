@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ozg0QRzqpyKjeShtzo9dA7iAe11a/zKOaD1qFyYv2mV/EKlyu8NWmqLnggSwJnMDHetqRGiSbiF9o3SpYpxJhA==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp OOP\\Encapsulation - Lab\\Encapsulation - Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

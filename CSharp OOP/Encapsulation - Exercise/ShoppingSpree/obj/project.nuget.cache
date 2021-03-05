@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yJQ4lo9EEm7q/f+xHtI0yDkHU0PK0nybWgzAUev6hI1rMXglnaPJz4QQOBMooC9UDhIqcvOKh0RBxl9+t8feXQ==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp OOP\\Encapsulation - Exercise\\ShoppingSpree\\ShoppingSpree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
