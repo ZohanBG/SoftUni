@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

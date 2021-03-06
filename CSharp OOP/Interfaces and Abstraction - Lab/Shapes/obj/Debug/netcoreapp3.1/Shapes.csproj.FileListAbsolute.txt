@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache
