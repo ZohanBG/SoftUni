@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LrEkxVccKfvT+bcuGtCqo8+ljcI1GDwSDHZddcJJ4M9FYrTI9Mt3unuBxZvb9p7Fx1xuLayX4Tzg8+tsSmYASw==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp OOP\\Interfaces and Abstraction - Exercise\\Interfaces and Abstraction - Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

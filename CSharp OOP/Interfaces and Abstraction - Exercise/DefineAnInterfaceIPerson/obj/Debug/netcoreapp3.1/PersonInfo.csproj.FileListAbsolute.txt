@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.exe
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.dll
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.dll
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\Games\SoftUni\CSharp OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache
