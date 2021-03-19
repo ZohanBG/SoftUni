@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hnR9bsMO7sj50XZ75bvmOSyxN4iut5dvb3PbBclD1IryflGCYszhRp58XdckIIgH04RQGXW4AE0XmI3Eu15f6A==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp OOP\\Polymorphism - Exercise\\Vehicles\\Vehicles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
