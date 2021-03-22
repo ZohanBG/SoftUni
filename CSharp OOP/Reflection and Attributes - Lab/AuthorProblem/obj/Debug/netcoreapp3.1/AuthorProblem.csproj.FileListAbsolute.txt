@@ -1,0 +1,13 @@
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\Games\SoftUni\CSharp OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache
