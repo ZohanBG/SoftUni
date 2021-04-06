@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gyKEh1mmaAv3vB7XYHEUZIcWlT9GO2jtmTzS55+4+Iu/D5za0EaQ7zYDz57fLFMEtpPqH+x7/MzVbhGpgWfPCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\C# OOP Retake Exam - 19 December 2020\\WarCroft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

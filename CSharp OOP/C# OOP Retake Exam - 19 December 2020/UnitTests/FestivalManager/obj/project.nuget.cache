@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJxQ38M2DDu8Bup7CffpmEx6ZSRoerwshA/m5KDvgctNBc8XoM2lcu9WF9fKCDNWmhaQZgJskYZnsLAdRCqxUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\unit test\\FestivalManager\\FestivalManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
