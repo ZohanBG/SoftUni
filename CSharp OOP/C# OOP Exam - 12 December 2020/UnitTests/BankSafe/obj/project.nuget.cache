@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rxbu31i+ky+klCiyHdQGSi2KkBwPbxJ9TP/5Fo5BJ0Yr3JH1VmuhW5TjwW5nAC+aVBMDzxOkIbWLKkfu0GLldw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\unit testing\\BankSafe\\BankSafe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
