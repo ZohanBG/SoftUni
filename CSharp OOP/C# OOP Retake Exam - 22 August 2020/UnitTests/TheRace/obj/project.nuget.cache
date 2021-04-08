@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWooxlWiC3OQgMYLNrZxI/ohhoj52fXcQzd9moXkXAoP9frGDRit3EVg17SZgM7q9H64tia+1/wsoc7rFzB13g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\unit tests 2\\UnitTests-Skeleton\\TheRace\\TheRace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\New folder\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+C:\Users\user\Desktop\New folder\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+C:\Users\user\Desktop\New folder\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+C:\Users\user\Desktop\New folder\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+C:\Users\user\Desktop\New folder\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+C:\Users\user\Desktop\New folder\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+C:\Users\user\Desktop\New folder\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+C:\Users\user\Desktop\New folder\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache

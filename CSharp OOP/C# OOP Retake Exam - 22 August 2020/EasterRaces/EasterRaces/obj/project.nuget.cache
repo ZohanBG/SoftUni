@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqZWlMZHUIelaFwS/gnM1eQdessXC6PSwvo2p1mnPSyMjx0uFByDnGmBhNpmUM0inOxKzK2/pRBVZ/CgBe6VWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\New folder\\EasterRaces\\EasterRaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
