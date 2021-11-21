@@ -15,7 +15,7 @@
             using var db = new BookShopContext();
             DbInitializer.ResetDatabase(db);
 
-            Console.WriteLine(RemoveBooks(db));
+            Console.WriteLine(GetBooksReleasedBefore(db, "30-12-1989"));
         }
 
         //1. Age Restriction
@@ -110,17 +110,15 @@
 
             string[] categories = input.Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
-            string[] bookTitles = context.Books
+            var bookTitles = context.Books
                 .Where(b => b.BookCategories
                 .Any(a => input.Contains(a.Category.Name)))
                 .OrderBy(b => b.Title)
-                .Select(b => b.Title)
                 .ToArray();
                 
-
             foreach (var item in bookTitles)
             {
-                sb.AppendLine(item);
+                sb.AppendLine(item.Title);
             }
 
             return sb.ToString().TrimEnd();
