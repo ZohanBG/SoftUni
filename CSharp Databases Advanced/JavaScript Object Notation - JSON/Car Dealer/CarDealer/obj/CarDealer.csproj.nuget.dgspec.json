@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\New folder (2)\\CarDealer\\CarDealer.csproj": {}
+    "D:\\Games\\SoftUni\\CSharp Databases Advanced\\JavaScript Object Notation - JSON\\Car Dealer\\CarDealer\\CarDealer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\New folder (2)\\CarDealer\\CarDealer.csproj": {
+    "D:\\Games\\SoftUni\\CSharp Databases Advanced\\JavaScript Object Notation - JSON\\Car Dealer\\CarDealer\\CarDealer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\New folder (2)\\CarDealer\\CarDealer.csproj",
+        "projectUniqueName": "D:\\Games\\SoftUni\\CSharp Databases Advanced\\JavaScript Object Notation - JSON\\Car Dealer\\CarDealer\\CarDealer.csproj",
         "projectName": "CarDealer",
-        "projectPath": "C:\\Users\\user\\Desktop\\New folder (2)\\CarDealer\\CarDealer.csproj",
+        "projectPath": "D:\\Games\\SoftUni\\CSharp Databases Advanced\\JavaScript Object Notation - JSON\\Car Dealer\\CarDealer\\CarDealer.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\New folder (2)\\CarDealer\\obj\\",
+        "outputPath": "D:\\Games\\SoftUni\\CSharp Databases Advanced\\JavaScript Object Notation - JSON\\Car Dealer\\CarDealer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
