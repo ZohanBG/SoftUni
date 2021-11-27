@@ -210,12 +210,13 @@ namespace CarDealer
         public static string GetTotalSalesByCustomer(CarDealerContext context)
         {
             var customers = context.Customers
+                .ToArray()
                 .Where(c => c.Sales.Count >= 1 )
                 .Select(c => new
                 {
                     fullName = c.Name,
                     boughtCars = c.Sales.Count,
-                    spentMoney = c.Sales.Sum(s => s.Car.PartCars.Sum(pc => pc.Part.Price))
+                    spentMoney = c.Sales.Sum(s => s.Car.PartCars.Sum(p => p.Part.Price))
                 })
                 .OrderByDescending(x => x.spentMoney)
                 .ThenByDescending(x => x.boughtCars)

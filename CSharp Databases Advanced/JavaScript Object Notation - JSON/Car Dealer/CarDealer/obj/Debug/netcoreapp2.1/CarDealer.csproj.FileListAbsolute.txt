@@ -10,3 +10,15 @@ C:\Users\user\Desktop\New folder (2)\CarDealer\obj\Debug\netcoreapp2.1\CarDealer
 C:\Users\user\Desktop\New folder (2)\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
 C:\Users\user\Desktop\New folder (2)\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
 C:\Users\user\Desktop\New folder (2)\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
+D:\Games\SoftUni\CSharp Databases Advanced\JavaScript Object Notation - JSON\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\Games\SoftUni\CSharp Databases Advanced\JavaScript Object Notation - JSON\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\Games\SoftUni\CSharp Databases Advanced\JavaScript Object Notation - JSON\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\Games\SoftUni\CSharp Databases Advanced\JavaScript Object Notation - JSON\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\Games\SoftUni\CSharp Databases Advanced\JavaScript Object Notation - JSON\Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Games\SoftUni\CSharp Databases Advanced\JavaScript Object Notation - JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\Games\SoftUni\CSharp Databases Advanced\JavaScript Object Notation - JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\Games\SoftUni\CSharp Databases Advanced\JavaScript Object Notation - JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\Games\SoftUni\CSharp Databases Advanced\JavaScript Object Notation - JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\Games\SoftUni\CSharp Databases Advanced\JavaScript Object Notation - JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\Games\SoftUni\CSharp Databases Advanced\JavaScript Object Notation - JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Games\SoftUni\CSharp Databases Advanced\JavaScript Object Notation - JSON\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
