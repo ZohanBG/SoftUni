@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KrZgxbzBZZ9oy5g9psFjtzKeFduU7wu9J4+e9QW86WtFStDMSPfOA11jqu0OhlobQemi2X2guwvtBsYYTVXXDg==",
+  "dgSpecHash": "+xkxjNLqSy2g7iClidvkcpfD2kC2FlG3kdDhDBOfwSU5A8nARc4M3Ow9vw8ZwVcbZBh03C8qnBMYIRaP3R1GNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\New folder (2)\\CarDealer\\CarDealer.csproj",
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Databases Advanced\\Extensible Markup Language - XML\\CarDealer\\CarDealer\\CarDealer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
