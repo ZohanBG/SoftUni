@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pDxZHKeejx7A/xN1z22ohx+PXLYE24q3+vW/Gh/vFA8YXiK0Di2BuMIIwD2m8g+yU0VaehL3llKKCHslYt6AZA==",
+  "dgSpecHash": "KzdKOwWMMWLJ1wUsUFU7FdPVg8vaEj9HV9psN4KT7BzEk2bZEb/s2rfnpN4SA068W3VTWHmzJalGbrN55K9trA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\asd\\SoftJail\\SoftJail.csproj",
+  "projectFilePath": "D:\\Games\\SoftUni\\CSharp Databases Advanced\\Exams\\SoftJail\\SoftJail\\SoftJail.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

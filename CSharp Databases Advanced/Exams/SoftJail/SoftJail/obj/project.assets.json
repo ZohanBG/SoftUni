@@ -5158,11 +5158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\asd\\SoftJail\\SoftJail.csproj",
+      "projectUniqueName": "D:\\Games\\SoftUni\\CSharp Databases Advanced\\Exams\\SoftJail\\SoftJail\\SoftJail.csproj",
       "projectName": "SoftJail",
-      "projectPath": "C:\\Users\\user\\Desktop\\asd\\SoftJail\\SoftJail.csproj",
+      "projectPath": "D:\\Games\\SoftUni\\CSharp Databases Advanced\\Exams\\SoftJail\\SoftJail\\SoftJail.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\asd\\SoftJail\\obj\\",
+      "outputPath": "D:\\Games\\SoftUni\\CSharp Databases Advanced\\Exams\\SoftJail\\SoftJail\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
